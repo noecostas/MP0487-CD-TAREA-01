@@ -14,7 +14,7 @@ public class ArcsJPanel extends JPanel
 
       // start at 0 and sweep 360 degrees
       g.setColor(Color.RED);
-      g.drawRect(15, 35, 80, 80);
+      g.drawRect(15, 35, 80, 87);
       g.setColor(Color.BLACK);
       g.drawArc(15, 35, 80, 80, 0, 360);
 

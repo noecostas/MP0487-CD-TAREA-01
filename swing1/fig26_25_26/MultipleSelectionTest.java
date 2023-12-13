@@ -10,7 +10,7 @@ public class MultipleSelectionTest
          new MultipleSelectionFrame(); 
       multipleSelectionFrame.setDefaultCloseOperation(
          JFrame.EXIT_ON_CLOSE);
-      multipleSelectionFrame.setSize(350, 150); 
+      multipleSelectionFrame.setSize(350, 153); 
       multipleSelectionFrame.setVisible(true); 
    } 
 } // end class MultipleSelectionTest
